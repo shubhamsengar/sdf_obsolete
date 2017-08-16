@@ -1,0 +1,25 @@
+
+.fill{
+	height: 100%;
+}
+
+.pm0{
+	padding:0px !important;
+	margin:0px !important;
+}
+
+.border{
+	border:2px black solid;
+}
+
+.borderg{
+	border:2px green solid;
+}
+
+.borderr{
+	border:2px red solid;
+}
+
+.borderb{
+	border:2px blue solid;
+}

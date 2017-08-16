@@ -1,0 +1,11 @@
+cust #:160111883
+userName:shubhamsengar88
+pass:0ss_Glola
+pin:0007
+cPanel
+pass:dj@89djkJK
+userName:shubhamsengar99
+
+syntax:https://148.66.136.7/~shubhamsengar99(cPanelName)/
+akram
+

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <link href='one.css' rel='stylesheet'>
+<script src="../js/angular_1.6.4.js"></script>
+<script src="/sdf/include/jquery/jquery-3.2.1.js"></script>
+<script src="/sdf/include/js/validate/jquery-validate1_17_0.js"></script>
+<script src="one.js"></script>
+<!-- jquery-validate1_17_0 -->
+
+<body>
+
+  <div ng-app="myApp" ng-controller="myCtrl">
+
+    <form ng-submit='onSubmit()' id='myform'>
+      <input type='text'  name='one' ng-model='one'  />
+      <input type='text'  name='two' ng-model='two' id='two'  />
+      <button type='submit'>submit</button>
+    </form>
+
+  </div>
+  
+
+</body>
+
+</html>
